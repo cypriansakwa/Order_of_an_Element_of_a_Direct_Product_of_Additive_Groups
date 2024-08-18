@@ -25,10 +25,10 @@ fn order(a: u64, n: u64, b: u64, m: u64) -> u64 {
 }
 
 fn main() {
-    let a = 991;
-    let n = 1081;
-    let b = 1396;
-    let m = 1481;
+    let a = 6;
+    let n = 8;
+    let b = 9;
+    let m = 12;
 
     let result = order(a, n, b, m);
     println!("The order of ({}, {}) in Z_{} x Z_{} is {}", a, b, n, m, result);
