@@ -18,6 +18,7 @@ This Rust program computes the order of an element $(a,b) \in \in\mathbb{Z}_n \t
 - The program computes and displays the order of $(a,b)\in\mathbb{Z}_n\times\mathbb{Z}_m$.
 ## Acknowledgments
 - Rust
+### Clone the repository or copy the source code into a Rust project.
 ```bash
 git clone https://github.com/cypriansakwa/Order_of_an_Element_of_a_Direct_Product_of_Additive_Groups.git
 cd Order_of_an_Element_of_a_Direct_Product_of_Additive_Groups
